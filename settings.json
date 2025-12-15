@@ -19,7 +19,7 @@
     "defaultMarginPercent": 20
   },
   "magalu": {
-    "commissionPercent": 19,
+    "commissionPercent": 14.8,
     "effectiveTaxPercent": 6.5,
     "fixedFee": 5,
     "fixedFeeThreshold": 10,
