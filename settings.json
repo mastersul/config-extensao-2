@@ -332,7 +332,7 @@
           { "minWeightKgInc": 150, "fee": 261.95 }
         ]
       }
-    ]
+    ],
     "mercadoLivreEspecial": [
       {
         "priceRange": { "min": 0, "max": 19 },
@@ -606,7 +606,7 @@
           { "minWeightKgInc": 150, "fee": 392.92 }
         ]
       }
-    ]
+    ],
     "mercadoLivrePetFood": [
       {
         "priceRange": { "min": 0, "max": 19 },
